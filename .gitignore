@@ -1,0 +1,6 @@
+deadlines.txt
+.env
+env
+backend/env
+**/env
+**/__pycache__
